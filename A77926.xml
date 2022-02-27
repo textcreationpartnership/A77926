@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle from John Burnyeat to friends in Pennsilvania; to be disperced by them to the neighbouring provinces, which for convenience and dispatch was thought good to be printed, and so ordered by the Quarterly Meeting of Philadelphia, the 7th of the 4th month, 1686.</title>
+            <author>Burnyeat, John, 1631-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77926</idno>
+            <idno type="STC">Wing B5965B</idno>
+            <idno type="STC">ESTC W1693</idno>
+            <idno type="EEBO-CITATION">45578197</idno>
+            <idno type="OCLC">ocm 45578197</idno>
+            <idno type="VID">172150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2616:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle from John Burnyeat to friends in Pennsilvania; to be disperced by them to the neighbouring provinces, which for convenience and dispatch was thought good to be printed, and so ordered by the Quarterly Meeting of Philadelphia, the 7th of the 4th month, 1686.</title>
+                  <author>Burnyeat, John, 1631-1690.</author>
+                  <author>Philadelphia Yearly Meeting of the Religious Society of Friends. Philadelphia Quarterly Meeting</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by William Bradford near Philadelphia,</publisher>
+                  <pubPlace>[Philadelphia] :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Pennsylvania --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172150:1" rendition="simple:additions"/>
+            <head>An Epiſtle from <hi>John Burnyeat</hi> to Friends in <hi>Pennſilvania;</hi>
+            </head>
+            <head type="sub">To be diſperced by them to the neighbouring Provinces, which for convenience and diſpatch was thought good to be printed, and ſo ordered by the Quarterly Meeting of <hi>Philadelphia,</hi> the 7th of the 4th Month, 1686.</head>
+            <p>
+               <hi>Dear Friends;</hi>
+            </p>
+            <p>IN the univerſal Spirit of Life and Truth, and of Righteouſ<g ref="char:EOLhyphen"/>neſs and Peace, doth the tender Affection and pure Love of my heart flow forth unto you all, who are true Lovers of the Power and Holineſs of the ſame, wherein alone it is that we bear the Image of him whoſe Name is <hi>HOLINESS,</hi> and his Nature and Being is <hi>P<g ref="char:V">Ʋ</g>RITY,</hi> ſo that in that only we do draw and may draw near unto him, and have fellowſhip with him, and enjoy his Preſence, who is our God, our Life and Salvation; and therefore in the unity of that whereby we have been quicken'd, and through which we live unto him that hath quicken'd us, do I exhort and beſeech you all to mind, with reverence, his ſecret and ſweet Viſitations by his holy Power upon your Spirits, in your hearts, that you feeling that to appear there, and ſo through the brightneſs of its appearing, to deſtroy him, whoſe coming is after the working of Satan with all Power, &amp;c. and with all de<g ref="char:EOLhyphen"/>ceiveableneſs of Unrighteouſneſs in them that periſh, and not only to appear to deſtroy him and his Works, but alſo to abide with you, and dwell in you, and to make you his Dwelling-place, and then you being watchful, ſhall not watch in vain, becauſe the Lord then will be your Keeper, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, as one ſaid of old, <hi>He keeping the City, the Watch-man watcheth not in vain.</hi> Thus you may ſee it fulfilled in your own Hearts unto your own Souls, and ſo have
+<pb n="2" facs="tcp:172150:2"/>comfort and Confidence with holy <hi>David,</hi> and with him live above the fear of Evil (though you might walk through the ſhadow of Death, as he ſaid) becauſe of the Lords being with you.</p>
+            <p>And therefore, <hi>Friends,</hi> ſee that you be all mindful of him in his appearing by his Power and Spirit of Grace in your hearts; and let him have room there, and not be ſtraitned, or thronged up, or oppreſſed; for he delights to dwell alone there, and have the whole heart to himſelf, and at his own diſpoſing, that he may fill it with that which he takes pleaſure in, and in which only he may be glorified and honoured; and therefore doth he require the Heart, ſaying, <hi>My Son, give me thy heart;</hi> And Chriſt doth Com<g ref="char:EOLhyphen"/>mand, that we <hi>ſhould love him with all our Hearts,</hi> &amp;c. So, as I ſaid, let him have room in your hearts, and take heed that with this World, the Spirit of it, Nature of it, and love to the things therein, your hearts be not filled, and ſo taken up, that there be no room for him, whoſe coming is with ſuch Glory and Fullneſs, that he fills all that are rightly poor &amp; empty, with that Fullneſs, Richneſs and Glory, that there can be no want to them that have him for their Portion and Inheritance, and ſo keep ſingle in their hearts before him; but where the heart is filled with delight in, or deſires after other things, out of the Covenant of God (which is out of his favour) there the Lord will not have delight to dwell, there is not room; nay, he will not have delight to appear there, becauſe it will be his grief, and an oppreſſion unto him; was it not ſo of old, when he took up his complaint againſt both <hi>Judah</hi> and <hi>Iſrael,</hi> as you may ſee <hi>Amos</hi> 2. how the Lord pleads with them and threatens them what he would bring upon them for their Sins that he reckons up againſt them; and withal, to aggra<g ref="char:EOLhyphen"/>vate their Crimes (as he might juſtly do) he alſo reckons up &amp; tells them what he had done for them, how <hi>he had deſtroy'd the</hi> Amorite <hi>for their ſakes, brought them out of the Land of</hi> Aegypt, <hi>lead them in the Wilderneſs, given them the Land of the</hi> Amorits <hi>to poſſeſs, raiſed of their Sons to be Prophets, and their Young men to be</hi> Nazarites, <hi>&amp;c.</hi> but ſaith he unto them, <hi>Ye gave my</hi> Nazarits <hi>Wine to drink, and commanded my Prophets, ſaying, Prophecy not: Behold, I am preſſed under you as a Cart is preſſed that is full of: heaves,</hi> ſaith he. Hence it may be underſtood, that when he hath been at work, and
+<pb n="3" facs="tcp:172150:2"/>hath done good by his glorious Power, who worketh wonderfully for them (and now in them alſo) that believe in his Power; If there be a going from him, and a letting in of another thing into the Heart, where he ſhould rule and have his dwelling in man, and ſo with man, it becomes a grief, and an oppreſſion unto him, and ſo a provocation unto him, that he will not always bear it, nor ſpare man, though he is long-ſuffering, as may be ſeen very fully in that Prophecy of <hi>Amos,</hi> and more at large through the Scrip<g ref="char:EOLhyphen"/>tures, which were written for our learning, that we might be warned, and thereby be ſtirred up unto diligence, care &amp; watch<g ref="char:EOLhyphen"/>fulneſs, which may tend to our Preſervation.</p>
+            <p>And now, conſidering theſe things that were of old, and ob<g ref="char:EOLhyphen"/>ſerving how that in our Age the Lord hath made known his wont<g ref="char:EOLhyphen"/>ed Goodneſs unto us, even that which doth far exceed the out<g ref="char:EOLhyphen"/>ward Priviledges of the outward <hi>Iſrael;</hi> for that which he bleſ<g ref="char:EOLhyphen"/>ſeth us withal, is a Poſſeſſion and enjoyment of a degree of his own Life (who is the Creator) by which he created all things, which is more than the enjoyment of the Creature, the loſs of which was the great Penalty laid upon <hi>Adam,</hi> if he broke the Com<g ref="char:EOLhyphen"/>mand, which he having loſt, is aga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n reſtored unto us through Chriſt Jeſus the ſecond <hi>Adam,</hi> the Lord from Heaven, which we having received, do thereby live unto God, and therein ſerve him.</p>
+            <p>And ſo, <hi>dear Friends,</hi> the thing that is chiefly in my mind unto you, in the reach of the heavenly Bowels, is to intreat and be<g ref="char:EOLhyphen"/>ſeech you all to be tender in your hearts, and careful over your ſpirits, that you may not let in nor joyn with any thing that will bring grief or oppreſſion upon your Life, or lead you into the Tranſgreſſion of the Law thereof: Mind the Exhortation of the Apoſtle, <hi>Grieve not the Spirit by which you are ſealed,</hi> &amp;c. And ſo, as you are careful, watchful and wiſe to take heed unto the holy Conduct, and bleſſed Leadings and Direction of this Spirit, and the Law thereof, your Souls will dwell in Peace, and your Feet will tread in a ſafe Path, even the <hi>Path of Peace,</hi> and your ſteps will not ſlide, but you will witneſs what <hi>David</hi> ſaid of old to be true, <hi>The Righteous ſhall inherit the Land and dwell therein forever; for,</hi> ſaith he, <hi>the Mouth of the Righteous ſpeaketh Wiſdom, and his Tongue talks of Judgment, the Law of his God is in his heart, none of
+<pb n="4" facs="tcp:172150:3"/>his ſteps ſhall ſlide.</hi> So here you may ſee what it is that keeps from ſliding, the Law of God, which is in the heart, this preſerved <hi>David,</hi> for it was as a Lanthorn to his feet, and a Light unto his Paths.</p>
+            <p>Oh my <hi>dear Friends!</hi> you may be happy, yea, we may all be happy, if we be as carerul as we ought, to walk by this Rule: Oh the ſweetneſs, peace and glory, that he fills the hearts of all his People with, that take heed unto his Law! the Spirit is not grieved, the Life of the Soul is not oppreſſed; the Soul, Life or Spirit of man is at eaſe, and ſo in the glorious Liberty of the Sons of God, and ſo in that ſtate where it can ſing unto the Lord and praiſe him.</p>
+            <p>And therefore, all of you mind your dwelling and inward Li<g ref="char:EOLhyphen"/>berty and ſpiritual freedom from all the Corruptions of the world and of the fleſh, both inwardly in your ſelves, and all Tempta<g ref="char:EOLhyphen"/>tions from without, that you may reign in the Dominion of the Seed Chriſt Jeſus forever, and ſo with him be Co-heirs of that heavenly Inheritance and Poſſeſſion which he hath purchaſed for you.</p>
+            <p>And ſo, in the unity of that Life which reigns over all, do I very dearly ſalute you all who love the Truth, and in that do I deſire that the God of Life may bear up your ſpirits by his Power over and a-top of all that would defile or oppreſs, that you may be preſerved to remain the Sons and Daughters of God without Rebuke, in and among this crooked and perverſe Generation, amongſt whom do you ſhine as Lights, to the Glory of him who hath called you out of Darkneſs into his marvellous Light, who over all is worthy of Glory, Honour and Dominion, World without end.</p>
+            <closer>
+               <dateline>Dublin <hi>in</hi> Ireland, <date>
+                     <hi>the</hi> 12th <hi>of the</hi> 8th <hi>Moneth,</hi> 1685.</date>
+               </dateline> 
+               <signed>
+                  <hi>From your Friend and Brother, in the Truth,</hi> John Burnyeat.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed and ſold by</hi> William Bradford <hi>near</hi> Philadelphia, 1686.</p>
+            <pb facs="tcp:172150:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
